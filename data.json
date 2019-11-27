@@ -1,0 +1,231 @@
+{
+        "nama":"Rudi Kwok",
+        "jenis_kel":"L",
+        "alamat":"Jakarta Barat, Pluit, Jalan Kenanga no 17, RT 12 RW 01, Desa Shinobi",
+        "no_hp": "0811 222 3333 444",
+        "usia":"31",
+        "data_personal":[
+          {
+           "Ktp":[
+             {
+              "NIK":"9001847638127345",
+              "Nama":"Rudi Kwok",
+              "TTL": "Belitung",
+              "GolDar":"O"
+             }
+            ],
+            "kk":[
+              {
+                "no_kk":"8399217482742917",
+                "status":"Kepala Keluarga"
+              }
+            ],
+            "npwp":[
+              {
+                "id_npwp":"29.777.999.1.222.3333",
+                "nama":"Rudi Kwok",
+                "nik":"9001847638127345"
+              }
+            ],
+            "bpjs":[
+              {
+                "id_bpjs":"1428381008213",
+                "nama":"Rudi Kwok",
+                "nik":"9001847638127345",
+                "faskes":"1"
+              }
+            ],
+            "credit_card":[
+              {
+                "bank":"BCA",
+                "no_card":"8918 9182 4721 0100",
+                "nama":"Rudi Kwok",
+                "valid":"17-02-2019",
+                "exp":"17-02-2024"
+              }
+            ],
+            "pasport":[
+              {
+                "no_pasport":"A 9372846",
+                "nama":"Rudi Kwok",
+                "Kewarganegaraan":"Indonesia",
+                "Issue":"15 Okt 2014",
+                "Exp":"15 Okt 2019"
+              }
+            ],
+            "no_handphone":[
+              {
+                "operator":"Telkomsel",
+                "no_hp":"+62 826 7865 9888"
+              },
+              {
+                "operator":"Axianta",
+                "no_hp":"+62 8799 7008 6877"
+              },
+              {
+                "operator":"Telkomsel",
+                "no_hp":"+62 811 2223 3344"
+              }
+            ],
+            "no_rekening":[
+              {
+                "bank":"Mandiri",
+                "no_card":"7777 8888 99999 0000",
+                "nama":"Rudi Kwok",
+                "valid":"23/12/2025"
+              },
+              {
+                "bank":"BCA",
+                "no_card":"3662 4793 0182 4793",
+                "nama":"Rudi Kwok",
+                "valid":"12/03/2022"
+              }
+            ],
+            "sosmed":[
+              {
+                "facebook":"facebook.com/rudiKwok",
+                "twitter":"twitter.com/RudiKwok",
+                "linkedin":"linkedin/RudiKwok",
+                "instagram":"instagram.com/RudiKwok"
+              }
+            ],
+            "email":[
+              {
+                "email1":"rudikwok@gmail.com",
+                "email2":"rudikwok35@gmail.com",
+                "email3":"rudi124@gmail.com",
+                "email4":"rudikw.ok@ymail.com",
+                "email5":"rudikwok@hotmail.com",
+                "email6":"rudikwik@gamil.com"
+              }
+            ]
+          }
+        ],
+        "property":[
+          {
+            "certificate_id":[
+              {
+                "NIB":"837461987.04431",
+                "Owner":"Rudi Kwok",
+                "tgl_terbit":"19 0ct",
+                "alamat":"Jakata Barat, Pluit, Jalan Kenanga no 17, RT 12 RW 01 Desa Shinobi"
+              }
+            ],
+            "PBB":[
+              {
+                "nop":"99.88.299.333.000-9999.1",
+                "nama":"Rudi Kwok",
+                "Alamat":"Jakata Barat, Pluit, Jalan Kenanga no 17, RT 12 RW 01 Desa Shinobi",
+                "pbb_bulanan":[
+                  {
+                    "nop":"99.88.299.333.000-9999.1",
+                    "tahun":"2018",
+                    "total":"1.800.000"
+                  },
+                  {
+                    "nop":"99.88.299.333.000-9999.1",
+                    "tahun":"2019",
+                    "total":"1.800.000"
+                  }
+                ]
+              }
+            ],
+            "waktu_pembelian":[
+              {
+                "nib":"8374619871.04431",
+                "owner":"Rudi Kwok",
+                "alamat":"Jakarta Barat, Pluit, Jalan Kenanga no 17, RT 12 RW 01, Desa Shinobi",
+                "tgl_pembukuan":"10 Nov 2018",
+                "tgl_penerbitan":"15 Nov 2018",
+                "lokasi":"Jakarta Barat"
+              }
+            ],
+            "pln_id":[
+              {
+                "nama":"Rudi Kwok",
+                "id_pelanggan":"012930382023",
+                "pln_result":[
+                  {
+                    "nama":"Rudi Kwok",
+                    "id_pelanggan":"012930382023",
+                    "id_pembayaran":"0193928392",
+                    "daya":"5400",
+                    "total_bayar":"5.000.112",
+                    "bulan":"April 2019"
+                  },
+                  {
+                    "nama":"Rudi Kwok",
+                    "id_pelanggan":"012930382023",
+                    "id_pembayaran":"1982391822",
+                    "daya":"5400",
+                    "total_bayar":"4.321.232",
+                    "bulan":"Mei 2019"
+                  }
+                ]
+              }
+            ]
+              }
+            ],
+    "Bussiness":[
+              {
+                "startup":[
+                  {
+                    "nama":"IkanIkanan"
+                  }
+                ],
+                "Industri Micro":[
+                  {
+                    "nama":"microtik"
+                  }
+                ],
+                "Toko":[
+                  {
+                    "nama":"toko kecil"
+                  }
+                ],
+                "pabrik":[
+                  {
+                    "nama":"PT Ikan"
+                  }
+                ],
+                "company":[
+                  {
+                    "nama":"PT kecil"
+                  }
+                ],
+                "enterprise":[
+                  {
+                    "nama":"contoh"
+                  }
+                ]
+          }
+        ]
+      },
+
+      {
+        "nama":"Rudiantara"
+      },
+      {
+        "nama":"Azkar"
+      },
+      {
+        "nama":"Budi"
+      },
+      {
+        "nama":"Celine"
+      },
+      {
+        "nama":"Bio"
+      },
+      {
+        "nama":"Delin"
+      },
+      {
+        "nama":"Fera"
+      },
+      {
+        "nama":"Gery"
+      },
+      {
+        "nama":"Heru"
+      }
